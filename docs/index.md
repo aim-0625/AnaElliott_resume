@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Hana Elliot's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Hana Elliott
+I am pursuing a major in biology, with an emphasis in bioinformatics. And plan on going to graduate school to get a Master's in Genetic Counseling. I am the first STEM major in my family.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,74 +16,80 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2016-2018`
+__Olympic College__, Beremerton, WA
 
-- Full academic scholarship with 4.0 GPA
+- Dual credit enrollment full time on campus
+- AA in nursing
 
-`Expected 2029`
+`2019 - Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.45 GPA
+- BS in Biology (Bioinformatics)
+
+`Expected 2024-2026`
+__Genetic Counsiling Masters program__
+- I will be applying for a 2 year program that begins fall of 2024
+
+## Skills
+__Customer service/Interpersonal__
+- 3 years of customer service experience has taught me to work well with all types of people and help customers or clients in stressful or crisis situations.
+- I can confidantly follow proceedure while also adapting to unique situations
+
+__Coding/Data Analysis__
+- 2+ years of coding experience in R and Python, primarily working with data and statistics as well as visualizing and presenting real world data.
+- Examples of professional work include research paper for the Family Crisis Center as well as Analysis of 12 grade students SAT scores for South Kitsap Highschool.
+
+## Internships
 
 
-## Related Experience
+`september 2022 - April 2023`
+__Family Crisis Center__, Rexburg, ID 
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Handled confidentail pacient information
+- Observed and participated in group counseling gaining crisis cousleling experiance
+- Orginized and contacted local medical, theraputic, and legal partnerships
+- Headed research project utilizing skills in R that was submmited by the center to recieve more grants
 
 
-## Service and Work History
+## Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2007`
+__Telovision Commercial for South Kitsap School District__, Kitsap County, WA
+- Princible role
+
+`2008`
+__Television Commercial for Qwest__, Nation wide
+- Princible role
+
+`2017 - 2019`
+__Dominos__, Port Orchard, WA
+- Promoted to manager
+
+`2022`
+__Biology Teaching Assistant__
+- In charge of grading students work and giving feedback to students and proffesors. 
+- Panaged my own schedule
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Service
 
+`2013-2014`
+__Tutoring__, South Kitsap School District, WA
+- tutored 3 students of differing ages and on differing subjects
+- supervised by the School's Counselor
 
+`2020 - 2021`
+__Food Bank__, Salt Lake City, UT
+- totaling in 420 hours served by packaging, inspecting and connecting with community members
+
+`2019 - 2021`
+__Missionary Service__
+- Managed incoming requests for religious learning material. Offered and taught life skills integrated with teachings of Christ for the church of Jesus Christ of Latter-Day Saints. 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: DEcember 2022 -->
 
 
