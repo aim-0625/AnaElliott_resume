@@ -6,10 +6,8 @@ title: Hana Elliot's Resume
 I am pursuing a major in biology, with an emphasis in bioinformatics. And plan on going to graduate school to get a Master's in Genetic Counseling. I am the first STEM major in my family.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/ana-marks-180775222/">LinkedIn</a>
+| <a href="https://github.com/aim-0625?tab=repositories">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -17,7 +15,7 @@ I am pursuing a major in biology, with an emphasis in bioinformatics. And plan o
 ## Education
 
 `2016-2018`
-__Olympic College__, Beremerton, WA
+__Olympic College__, Bremerton, WA
 
 - Dual credit enrollment full time on campus
 - AA in nursing
